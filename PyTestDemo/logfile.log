@@ -1,0 +1,14 @@
+2022-12-14 13:08:10,995 :INFO : test_editProfile :Abc
+2022-12-14 13:08:10,995 :INFO : test_editProfile :Abcxyz@gmail.com
+2022-12-14 13:08:11,008 :DEBUG : PyTestDemo.test_logging :A debug statement is executed
+2022-12-14 13:08:11,008 :INFO : PyTestDemo.test_logging :Information statement
+2022-12-14 13:08:11,009 :WARNING : PyTestDemo.test_logging :Something is in warning mode
+2022-12-14 13:08:11,009 :ERROR : PyTestDemo.test_logging :A major error happened
+2022-12-14 13:08:11,009 :CRITICAL : PyTestDemo.test_logging :Critical Issue
+2022-12-14 13:08:40,733 :INFO : test_editProfile :Abc
+2022-12-14 13:08:40,733 :INFO : test_editProfile :Abcxyz@gmail.com
+2022-12-14 13:08:40,742 :DEBUG : PyTestDemo.test_logging :A debug statement is executed
+2022-12-14 13:08:40,742 :INFO : PyTestDemo.test_logging :Information statement
+2022-12-14 13:08:40,742 :WARNING : PyTestDemo.test_logging :Something is in warning mode
+2022-12-14 13:08:40,742 :ERROR : PyTestDemo.test_logging :A major error happened
+2022-12-14 13:08:40,742 :CRITICAL : PyTestDemo.test_logging :Critical Issue
